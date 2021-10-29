@@ -1,0 +1,31 @@
+{
+    "name": "ythowhighcanwecount",
+    "version": "0.0.1",
+    "description": "get yt vid likes and update yt title accordingly",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "4.17.x",
+      "xmlhttprequest": "1.8.x",
+      "requirejs": "2.x",
+      "jquery": "3.4.0",
+      "pug": "^2.0.x",
+      "validator": "^12.2.x",
+      "bcrypt": "3.0.8",
+      "express-flash": "0.0.2",
+      "luxon": "1.23.0",
+      "multer": "1.4.x",
+      "express-session": "1.17.x",
+      "googleapis": "88.2.0",
+      "google-auth-library": "7.10.1",
+      "util": "0.12.4",
+      "axios": "0.24.0",
+      "qs": "6.10.1"
+    },
+    "engines": {
+      "node": "8.x"
+    },
+    "license": "MIT"
+  }
